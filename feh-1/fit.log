@@ -1,0 +1,60 @@
+
+
+*******************************************************************************
+Tue Sep  3 17:26:03 2019
+
+
+FIT:    data read from 'M-R-z014.txt' using 1:2
+        format = x:z
+        #datapoints = 196
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=(a*m^(2.5)+b*m^(6.5)+c*m^(11)+d*m^(19)+e*m(19.5))/(f+g*m^(2)+h*m^(8.5)+M^(18.5)+k*m^(19.5))
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Sep  3 17:26:53 2019
+
+
+FIT:    data read from 'M-R-z014.txt' using 1:2
+        format = x:z
+        #datapoints = 196
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=(a*m^(2.5)+b*m^(6.5)+c*m^(11)+d*m^(19)+e*m(19.5))/(f+g*m^(2)+h*m^(8.5)+M^(18.5)+k*m^(19.5))
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Sep  3 17:27:27 2019
+
+
+FIT:    data read from 'M-R-z014.txt' using 1:2
+        format = x:z
+        #datapoints = 196
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=(a*m^(2.5)+b*m^(6.5)+c*m^(11)+d*m^(19)+e*m(19.5))/(f+g*m^(2)+h*m^(8.5)+M^(18.5)+k*m^(19.5))
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Sep  3 17:32:34 2019
+
+
+FIT:    data read from 'M-R-z014.txt' using 1:2
+        format = x:z
+        #datapoints = 196
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=(a*m^(2.5)+b*m^(6.5)+c*m^(11)+d*m^(19)+e*m(19.5))/(f+g*m^(2)+h*m^(8.5)+M^(18.5)+k*m^(19.5))
+fitted parameters initialized with current variable values
+
